@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/datenbanken/"}
+{"dg-publish":true,"permalink":"/datenbanken/","tags":["Watchmen"]}
 ---
 
 
