@@ -3,3 +3,9 @@
 ---
 
 This is my Homepage
+
+> "all great things come from talking with pets"
+
+
+> [!NOTE]- You should see a Doctor
+> DOCTOR
