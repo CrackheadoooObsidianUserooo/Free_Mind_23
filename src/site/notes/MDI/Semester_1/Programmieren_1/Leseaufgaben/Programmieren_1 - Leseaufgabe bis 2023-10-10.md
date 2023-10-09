@@ -18,7 +18,7 @@
 { #00428y}
 
 			3. Ich dachte man müsse, vor jedem Sonderzeichen ein Backlash machen
-3. ? Warum gibt es hier einen Compilerfehler
+3. ? Warum gibt es hier einen Compilerfehler ❓
 	1. ` public static void break(){ System.out.println("Spielabbruch"); }`
 		1. $ 
 4. ? Welche Sekundärtugenden brauchen Programmiererinnen und Programmierer❓
